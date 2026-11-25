@@ -1,0 +1,27 @@
+{
+  "Dust2.us Eagle Masters Series 7": {
+    "series": 4,
+    "raw_bytes": 2181316339,
+    "accepted_rounds": 93
+  },
+  "IEM Rio 2026": {
+    "series": 3,
+    "raw_bytes": 1700991840,
+    "accepted_rounds": 68
+  },
+  "CCT Season 3 North America Series 4": {
+    "series": 2,
+    "raw_bytes": 812454925,
+    "accepted_rounds": 43
+  },
+  "NODWIN Clutch Series 7": {
+    "series": 10,
+    "raw_bytes": 4362773350,
+    "accepted_rounds": 191
+  },
+  "CCT 2026 Challengers South America Series 1": {
+    "series": 1,
+    "raw_bytes": 434073545,
+    "accepted_rounds": 18
+  }
+}

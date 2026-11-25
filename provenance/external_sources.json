@@ -1,0 +1,207 @@
+{
+  "revision": "912a363098feec3f220e41d68634d2f71676c28b",
+  "cohort": "newly reserved post-development series",
+  "selection_lock_sha256": "2ea2191bfae281a1d4bd8cf0e74e5ac5b17196d61db8435171504d1f1e185dce",
+  "matches": [
+    {
+      "match": "2393338",
+      "date": "2026-04-13",
+      "event": "Dust2.us Eagle Masters Series 7",
+      "raw_sha256": "fc7f0a77cd9a85868e578347a2c7c026c84658408f8b1d675ed95d4f03e2bf3d",
+      "bytes": 403536671,
+      "match_url": "https://www.hltv.org/matches/2393338/chicanery-vs-mouse-dust2us-eagle-masters-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-10892ed9/2393338/chicanery-vs-mouse-m1-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9102/dust2us-eagle-masters-series-7"
+    },
+    {
+      "match": "2393083",
+      "date": "2026-04-13",
+      "event": "IEM Rio 2026",
+      "raw_sha256": "e15ae1178c507426b26b1c0a87d069a9d2b25aee6ed411db8c245814d7b097c9",
+      "bytes": 571873796,
+      "match_url": "https://www.hltv.org/matches/2393083/spirit-vs-liquid-iem-rio-2026",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-1574a6a2/2393083/spirit-vs-liquid-m2-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/8242/iem-rio-2026"
+    },
+    {
+      "match": "2393087",
+      "date": "2026-04-13",
+      "event": "IEM Rio 2026",
+      "raw_sha256": "bb9c80f991e7282ce365bfd266969ff3c2a75f1d703897017b8d4eeb70fce81e",
+      "bytes": 740875810,
+      "match_url": "https://www.hltv.org/matches/2393087/aurora-vs-hotu-iem-rio-2026",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-1574a6a2/2393087/aurora-vs-hotu-m2-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/8242/iem-rio-2026"
+    },
+    {
+      "match": "2393132",
+      "date": "2026-04-14",
+      "event": "CCT Season 3 North America Series 4",
+      "raw_sha256": "78804161aec81f58c6061ecdd35c593d38a1d3906ea0373f32ce84c31d2c277d",
+      "bytes": 354791154,
+      "match_url": "https://www.hltv.org/matches/2393132/voca-vs-regain-cct-season-3-north-america-series-4",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-1574a6a2/2393132/voca-vs-regain-m2-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9121/cct-season-3-north-america-series-4"
+    },
+    {
+      "match": "2393341",
+      "date": "2026-04-14",
+      "event": "Dust2.us Eagle Masters Series 7",
+      "raw_sha256": "7750cedc66d5d442c8c6a9ec4374ab4356c85f5ed19d41f534608321bb9b6ba7",
+      "bytes": 575590998,
+      "match_url": "https://www.hltv.org/matches/2393341/farmville-vs-zomblers-dust2us-eagle-masters-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-ca8f1a92/2393341/farmville-vs-zomblers-m2-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9102/dust2us-eagle-masters-series-7"
+    },
+    {
+      "match": "2393160",
+      "date": "2026-04-14",
+      "event": "NODWIN Clutch Series 7",
+      "raw_sha256": "56eb020783d9a23a4721ada1fe844e980ae57a74b5a98a3ce5524f54fe549961",
+      "bytes": 439254298,
+      "match_url": "https://www.hltv.org/matches/2393160/ex-ruby-vs-phantom-nodwin-clutch-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-17bc5760/2393160/ex-ruby-vs-phantom-m3-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9120/nodwin-clutch-series-7"
+    },
+    {
+      "match": "2393133",
+      "date": "2026-04-15",
+      "event": "CCT Season 3 North America Series 4",
+      "raw_sha256": "51e1e89dc0bece1b9e2d5bb7301326b1e5e9dfc3ed821edec63bab110e517b0b",
+      "bytes": 457663771,
+      "match_url": "https://www.hltv.org/matches/2393133/voca-vs-marsborne-cct-season-3-north-america-series-4",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-54251ae7/2393133/voca-vs-marsborne-m1-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9121/cct-season-3-north-america-series-4"
+    },
+    {
+      "match": "2393162",
+      "date": "2026-04-15",
+      "event": "NODWIN Clutch Series 7",
+      "raw_sha256": "9898b15120fcab2695b5832fbf3e163977d0306176984acd8df66c4849ce4c1a",
+      "bytes": 348476909,
+      "match_url": "https://www.hltv.org/matches/2393162/acend-vs-ursa-nodwin-clutch-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-54251ae7/2393162/acend-vs-ursa-m1-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9120/nodwin-clutch-series-7"
+    },
+    {
+      "match": "2393164",
+      "date": "2026-04-15",
+      "event": "NODWIN Clutch Series 7",
+      "raw_sha256": "17713d147d9713f4389c39d1224dbd26fccca96576566c242d23739fda2faf40",
+      "bytes": 415164419,
+      "match_url": "https://www.hltv.org/matches/2393164/cybershoke-vs-oxuji-nodwin-clutch-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-5457b143/2393164/cybershoke-vs-oxuji-m2-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9120/nodwin-clutch-series-7"
+    },
+    {
+      "match": "2393165",
+      "date": "2026-04-15",
+      "event": "NODWIN Clutch Series 7",
+      "raw_sha256": "f276606c9e01b7ab9d7b0ca9f94fec5bfcb127fc4a4a286add3b7a64e1c1098d",
+      "bytes": 419622779,
+      "match_url": "https://www.hltv.org/matches/2393165/tdk-vs-mana-nodwin-clutch-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-5457b143/2393165/tdk-vs-mana-m1-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9120/nodwin-clutch-series-7"
+    },
+    {
+      "match": "2393239",
+      "date": "2026-04-15",
+      "event": "IEM Rio 2026",
+      "raw_sha256": "d87524a1f12e28628f4eecd7503d73379ac1a04f7f9d0a11e8ee48bf3317bf84",
+      "bytes": 388242234,
+      "match_url": "https://www.hltv.org/matches/2393239/natus-vincere-vs-aurora-iem-rio-2026",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-5457b143/2393239/natus-vincere-vs-aurora-m3-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/8242/iem-rio-2026"
+    },
+    {
+      "match": "2393342",
+      "date": "2026-04-16",
+      "event": "Dust2.us Eagle Masters Series 7",
+      "raw_sha256": "89db3bf9e1e135d3fd0a9a7d60f141d26708dd23f0f252c3b1829f11a82d5c61",
+      "bytes": 690612738,
+      "match_url": "https://www.hltv.org/matches/2393342/regain-vs-empire-dust2us-eagle-masters-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-89712e19/2393342/regain-vs-empire-m2-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9102/dust2us-eagle-masters-series-7"
+    },
+    {
+      "match": "2393168",
+      "date": "2026-04-16",
+      "event": "NODWIN Clutch Series 7",
+      "raw_sha256": "4c07015659a3675b8d54f863d4cb4ded275df41f25eb57d6e25dd3b20c2985de",
+      "bytes": 352939958,
+      "match_url": "https://www.hltv.org/matches/2393168/1win-vs-nuclear-tigeres-nodwin-clutch-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-89712e19/2393168/1win-vs-nuclear-tigeres-m1-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9120/nodwin-clutch-series-7"
+    },
+    {
+      "match": "2393169",
+      "date": "2026-04-16",
+      "event": "NODWIN Clutch Series 7",
+      "raw_sha256": "7c76c906284c580d58f0fb1364fcbe9fb0c3a00bffff07182461b62989e40e04",
+      "bytes": 442543884,
+      "match_url": "https://www.hltv.org/matches/2393169/phantom-vs-genone-nodwin-clutch-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-89712e19/2393169/genone-vs-phantom-m1-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9120/nodwin-clutch-series-7"
+    },
+    {
+      "match": "2393352",
+      "date": "2026-04-17",
+      "event": "CCT 2026 Challengers South America Series 1",
+      "raw_sha256": "a95cb7c49ebcd7ec6485e45c6c46affa29476f2dc8a14a27b9b77239e4a4f7f3",
+      "bytes": 434073545,
+      "match_url": "https://www.hltv.org/matches/2393352/procyon-vs-vasco-cct-2026-challengers-south-america-series-1",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-6ac92abd/2393352/procyon-vs-vasco-m3-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9140/cct-2026-challengers-south-america-series-1"
+    },
+    {
+      "match": "2393170",
+      "date": "2026-04-17",
+      "event": "NODWIN Clutch Series 7",
+      "raw_sha256": "ca9f67eafbb10da1ead27d238ed97a168783ac9a182e559cb2bd4910baa5c3b9",
+      "bytes": 336905363,
+      "match_url": "https://www.hltv.org/matches/2393170/tdk-vs-oxuji-nodwin-clutch-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-6ac92abd/2393170/tdk-vs-oxuji-m3-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9120/nodwin-clutch-series-7"
+    },
+    {
+      "match": "2393177",
+      "date": "2026-04-18",
+      "event": "NODWIN Clutch Series 7",
+      "raw_sha256": "c94169b06b233f694c5f076894874020693ed1b29f1dd39a83875554ebd0a160",
+      "bytes": 532594936,
+      "match_url": "https://www.hltv.org/matches/2393177/favbet-vs-phantom-nodwin-clutch-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-e407f24a/2393177/favbet-vs-phantom-m2-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9120/nodwin-clutch-series-7"
+    },
+    {
+      "match": "2393180",
+      "date": "2026-04-19",
+      "event": "NODWIN Clutch Series 7",
+      "raw_sha256": "0e9881f4bb4799f9c82cd0ce497e43b2412d32b0a82d41f315f3fdba7dcf8544",
+      "bytes": 660485125,
+      "match_url": "https://www.hltv.org/matches/2393180/1win-vs-cybershoke-nodwin-clutch-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-55d96a26/2393180/1win-vs-cybershoke-m2-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9120/nodwin-clutch-series-7"
+    },
+    {
+      "match": "2393425",
+      "date": "2026-04-20",
+      "event": "Dust2.us Eagle Masters Series 7",
+      "raw_sha256": "bf87c11cbdfd828bbe4d876760ab3db7526fe257434b6237dccddca0523faf9a",
+      "bytes": 511575932,
+      "match_url": "https://www.hltv.org/matches/2393425/insane-players-vs-akimbo-dust2us-eagle-masters-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-25d1a04b/2393425/insane-players-vs-akimbo-m1-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9102/dust2us-eagle-masters-series-7"
+    },
+    {
+      "match": "2393183",
+      "date": "2026-04-20",
+      "event": "NODWIN Clutch Series 7",
+      "raw_sha256": "16cf27b8d379a33dc2adad1bc83ab5937be91fbc689fab4a8770d8c4fac083ea",
+      "bytes": 414785679,
+      "match_url": "https://www.hltv.org/matches/2393183/nuclear-tigeres-vs-acend-nodwin-clutch-series-7",
+      "source_url": "https://huggingface.co/datasets/blanchon/opencs2_dataset_demo/resolve/912a363098feec3f220e41d68634d2f71676c28b/demos/shard-europe-a0327671/2393183/nuclear-tigeres-vs-acend-m3-dust2.dem",
+      "event_evidence_url": "https://www.hltv.org/events/9120/nodwin-clutch-series-7"
+    }
+  ]
+}

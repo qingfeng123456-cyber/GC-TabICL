@@ -1,0 +1,284 @@
+{
+  "status": "passed",
+  "selected_series": 20,
+  "unique_raw_bytes": 9491609999,
+  "source_revision": "912a363098feec3f220e41d68634d2f71676c28b",
+  "selection_sha256": "2ea2191bfae281a1d4bd8cf0e74e5ac5b17196d61db8435171504d1f1e185dce",
+  "snapshot_sha256": "75e0260e374796c903ed9ad1ff05341f250c1be100ad52f1dc7ca497c8e0d425",
+  "rows": 413,
+  "splits": {
+    "test": {
+      "matches": 20,
+      "rounds": 413,
+      "decisions": 826,
+      "unique_arrival": 292,
+      "ties": 5,
+      "no_arrival": 529
+    }
+  },
+  "exclusions": {
+    "nonofficial": 3,
+    "clock_conflict": 1
+  },
+  "official_rounds": 418,
+  "official_rounds_not_retained": [
+    {
+      "match_id": "2393087",
+      "round": 25,
+      "start_tick": 221089,
+      "freeze_end_tick": 222369,
+      "reason": "unavailable_purchase_before_start_state",
+      "equipment_rejections": [
+        {
+          "freeze": 222369,
+          "side": 0,
+          "reason": "purchase_at_start"
+        }
+      ],
+      "clock_exclusions": []
+    },
+    {
+      "match_id": "2393083",
+      "round": 1,
+      "start_tick": 1,
+      "freeze_end_tick": 953,
+      "reason": "unavailable_purchase_before_start_state",
+      "equipment_rejections": [
+        {
+          "freeze": 953,
+          "side": 0,
+          "reason": "purchase_at_start"
+        }
+      ],
+      "clock_exclusions": []
+    },
+    {
+      "match_id": "2393180",
+      "round": 25,
+      "start_tick": 195368,
+      "freeze_end_tick": 196648,
+      "reason": "unavailable_purchase_before_start_state",
+      "equipment_rejections": [
+        {
+          "freeze": 196648,
+          "side": 0,
+          "reason": "purchase_at_start"
+        }
+      ],
+      "clock_exclusions": []
+    },
+    {
+      "match_id": "2393342",
+      "round": 24,
+      "start_tick": 169031,
+      "freeze_end_tick": 180903,
+      "reason": "opening_clock_motion_conflict",
+      "equipment_rejections": [],
+      "clock_exclusions": [
+        {
+          "uid": "2393342_024",
+          "reason": "opening_clock_motion_conflict",
+          "from_tick": 183537,
+          "to_tick": 184327,
+          "slot": 4,
+          "active_seconds_delta": 0.0,
+          "displacement": 1403.145263671875
+        }
+      ]
+    },
+    {
+      "match_id": "2393342",
+      "round": 25,
+      "start_tick": 187574,
+      "freeze_end_tick": 211746,
+      "reason": "unavailable_purchase_before_start_state",
+      "equipment_rejections": [
+        {
+          "freeze": 211746,
+          "side": 0,
+          "reason": "purchase_at_start"
+        }
+      ],
+      "clock_exclusions": []
+    }
+  ],
+  "official_rounds_not_retained_by_reason": {
+    "unavailable_purchase_before_start_state": 4,
+    "opening_clock_motion_conflict": 1
+  },
+  "parser_span_exclusions": {
+    "missing_end_before_next_freeze": 11
+  },
+  "equipment_rejected_records_by_side_reason": {
+    "side=0: purchase_at_start": 4
+  },
+  "new_vs_original_ids_and_raw_hashes_disjoint": true,
+  "unique_round_ids_and_no_old_round_overlap": true,
+  "official_start_and_freeze_timeline_agreement": true,
+  "finite_30_feature_snapshot": true,
+  "arrival_masks_and_times_consistent": true,
+  "prior_only_history_max_abs_diff": 8.339842638704908e-08,
+  "no_future_feature_fields": true,
+  "test_predictions_generated": false,
+  "map": "de_dust2",
+  "patch_versions": {
+    "14141": 20
+  },
+  "preparation_code_sha256": {
+    "acquire.py": "58a9e424484e68fdb94c795f77daa2dcd583aaf01aac9b66a0ae24ed4ffa7e6b",
+    "acquire_ranges.py": "37e791baca5c82e956edde49f025b00746a095df2e01f00217a882735d116616",
+    "parse_new.py": "de544ec5940ed67479a69118a4b27a99c5df0553428226f9252b6c29e9ca579e",
+    "verify_prepared.py": "6adcb25170d8d038677a1a814d06122742f2eb3730d31d04b92864f73b18161d"
+  },
+  "sources": [
+    {
+      "match_id": "2393338",
+      "raw_bytes": 403536671,
+      "raw_sha256": "fc7f0a77cd9a85868e578347a2c7c026c84658408f8b1d675ed95d4f03e2bf3d",
+      "parsed_rounds": 21,
+      "equipment_cases": 42
+    },
+    {
+      "match_id": "2393083",
+      "raw_bytes": 571873796,
+      "raw_sha256": "e15ae1178c507426b26b1c0a87d069a9d2b25aee6ed411db8c245814d7b097c9",
+      "parsed_rounds": 24,
+      "equipment_cases": 46
+    },
+    {
+      "match_id": "2393087",
+      "raw_bytes": 740875810,
+      "raw_sha256": "bb9c80f991e7282ce365bfd266969ff3c2a75f1d703897017b8d4eeb70fce81e",
+      "parsed_rounds": 29,
+      "equipment_cases": 56
+    },
+    {
+      "match_id": "2393132",
+      "raw_bytes": 354791154,
+      "raw_sha256": "78804161aec81f58c6061ecdd35c593d38a1d3906ea0373f32ce84c31d2c277d",
+      "parsed_rounds": 19,
+      "equipment_cases": 38
+    },
+    {
+      "match_id": "2393341",
+      "raw_bytes": 575590998,
+      "raw_sha256": "7750cedc66d5d442c8c6a9ec4374ab4356c85f5ed19d41f534608321bb9b6ba7",
+      "parsed_rounds": 23,
+      "equipment_cases": 46
+    },
+    {
+      "match_id": "2393160",
+      "raw_bytes": 439254298,
+      "raw_sha256": "56eb020783d9a23a4721ada1fe844e980ae57a74b5a98a3ce5524f54fe549961",
+      "parsed_rounds": 20,
+      "equipment_cases": 40
+    },
+    {
+      "match_id": "2393133",
+      "raw_bytes": 457663771,
+      "raw_sha256": "51e1e89dc0bece1b9e2d5bb7301326b1e5e9dfc3ed821edec63bab110e517b0b",
+      "parsed_rounds": 24,
+      "equipment_cases": 48
+    },
+    {
+      "match_id": "2393162",
+      "raw_bytes": 348476909,
+      "raw_sha256": "9898b15120fcab2695b5832fbf3e163977d0306176984acd8df66c4849ce4c1a",
+      "parsed_rounds": 17,
+      "equipment_cases": 34
+    },
+    {
+      "match_id": "2393164",
+      "raw_bytes": 415164419,
+      "raw_sha256": "17713d147d9713f4389c39d1224dbd26fccca96576566c242d23739fda2faf40",
+      "parsed_rounds": 19,
+      "equipment_cases": 38
+    },
+    {
+      "match_id": "2393165",
+      "raw_bytes": 419622779,
+      "raw_sha256": "f276606c9e01b7ab9d7b0ca9f94fec5bfcb127fc4a4a286add3b7a64e1c1098d",
+      "parsed_rounds": 17,
+      "equipment_cases": 34
+    },
+    {
+      "match_id": "2393239",
+      "raw_bytes": 388242234,
+      "raw_sha256": "d87524a1f12e28628f4eecd7503d73379ac1a04f7f9d0a11e8ee48bf3317bf84",
+      "parsed_rounds": 17,
+      "equipment_cases": 34
+    },
+    {
+      "match_id": "2393342",
+      "raw_bytes": 690612738,
+      "raw_sha256": "89db3bf9e1e135d3fd0a9a7d60f141d26708dd23f0f252c3b1829f11a82d5c61",
+      "parsed_rounds": 29,
+      "equipment_cases": 56
+    },
+    {
+      "match_id": "2393168",
+      "raw_bytes": 352939958,
+      "raw_sha256": "4c07015659a3675b8d54f863d4cb4ded275df41f25eb57d6e25dd3b20c2985de",
+      "parsed_rounds": 16,
+      "equipment_cases": 32
+    },
+    {
+      "match_id": "2393169",
+      "raw_bytes": 442543884,
+      "raw_sha256": "7c76c906284c580d58f0fb1364fcbe9fb0c3a00bffff07182461b62989e40e04",
+      "parsed_rounds": 20,
+      "equipment_cases": 40
+    },
+    {
+      "match_id": "2393352",
+      "raw_bytes": 434073545,
+      "raw_sha256": "a95cb7c49ebcd7ec6485e45c6c46affa29476f2dc8a14a27b9b77239e4a4f7f3",
+      "parsed_rounds": 18,
+      "equipment_cases": 36
+    },
+    {
+      "match_id": "2393170",
+      "raw_bytes": 336905363,
+      "raw_sha256": "ca9f67eafbb10da1ead27d238ed97a168783ac9a182e559cb2bd4910baa5c3b9",
+      "parsed_rounds": 16,
+      "equipment_cases": 32
+    },
+    {
+      "match_id": "2393177",
+      "raw_bytes": 532594936,
+      "raw_sha256": "c94169b06b233f694c5f076894874020693ed1b29f1dd39a83875554ebd0a160",
+      "parsed_rounds": 23,
+      "equipment_cases": 46
+    },
+    {
+      "match_id": "2393180",
+      "raw_bytes": 660485125,
+      "raw_sha256": "0e9881f4bb4799f9c82cd0ce497e43b2412d32b0a82d41f315f3fdba7dcf8544",
+      "parsed_rounds": 29,
+      "equipment_cases": 56
+    },
+    {
+      "match_id": "2393425",
+      "raw_bytes": 511575932,
+      "raw_sha256": "bf87c11cbdfd828bbe4d876760ab3db7526fe257434b6237dccddca0523faf9a",
+      "parsed_rounds": 22,
+      "equipment_cases": 44
+    },
+    {
+      "match_id": "2393183",
+      "raw_bytes": 414785679,
+      "raw_sha256": "16cf27b8d379a33dc2adad1bc83ab5937be91fbc689fab4a8770d8c4fac083ea",
+      "parsed_rounds": 18,
+      "equipment_cases": 36
+    }
+  ],
+  "combined_original_and_reserved_inventory": {
+    "unique_series": 114,
+    "unique_raw_bytes": 55697979820,
+    "original_series": 94,
+    "original_raw_bytes": 46206369821,
+    "reserved_series": 20,
+    "reserved_raw_bytes": 9491609999,
+    "disjoint_ids_and_sha256": true
+  }
+}

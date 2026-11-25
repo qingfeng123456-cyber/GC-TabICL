@@ -1,0 +1,12 @@
+results/
+__pycache__/
+*.py[cod]
+*.tmp
+*.download
+*.log
+*.zip
+.venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db

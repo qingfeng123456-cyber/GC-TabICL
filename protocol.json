@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "purpose": "Professional CS2 opening responsibility benchmark and independent replication",
+  "primary_metric": "Unique conditional identity NLL, equal weight to series then trained seeds",
+  "seeds": [2026, 2027, 2028],
+  "main_methods": ["velocity_rule", "history_prior", "linear_choice", "catboost_prefix", "flat_prefix", "compact_gru", "dynamic_graph", "plain_transformer", "task_transformer", "foundation_hurdle"],
+  "neural_search": {"seed": 2026, "epochs": 40, "learning_rates": [0.001, 0.002], "weight_decays": [0.01, 0.05], "criterion": "Validation series-mean identity NLL"},
+  "neural_final": {"epochs": 72, "batch": 64, "gradient_clip": 3, "transformer_width": 32, "transformer_dropout": 0.15},
+  "foundation": {"steps": 100, "eval_every": 20, "support_events": 64, "query_events": 8, "learning_rate": 0.0001, "weight_decay": 0.01, "gradient_clip": 1, "feature_width": 91, "freeze": "All pretrained parameters except final ICL block, final normalization and decoder", "upstream": "Bundled TabICLv2 public pretrained checkpoint; no claim of equal upstream pretraining"},
+  "classical": {"depths": [4, 6], "iterations": 600, "early_stopping_rounds": 50, "learning_rate": 0.05, "l2_leaf_reg": 3, "threads": 2},
+  "linear_choice": {"l2_values": [0.0001, 0.001, 0.01, 0.1], "optimizer": "Deterministic float64 LBFGS", "max_iterations": 300},
+  "occurrence": "Same seed-averaged validation-selected CatBoost occurrence head within each full, ablation or training-size condition; choice metrics remain conditional",
+  "information_ablations": ["no_arrival_history", "no_observed_motion", "no_absolute_position"],
+  "ablation_scope": "All inputs to both heads are transformed and heads retrained; no absolute position does not mean removal of every geometric or regional signal",
+  "training_sizes": [15, 30, 59],
+  "training_size_families": ["selected_primary", "compact_gru", "task_transformer"],
+  "training_size_subset": "Nested whole-series order from SHA256(CS2-training-amount-v1:series_id), fixed before outcomes",
+  "primary_selection": "Lowest mean development identity NLL among all ten full methods before external data is opened",
+  "external_rule": "All configurations, weights and preprocessing locked before opening the separate external NPZ. Test-based replacement or tuning is unavailable."
+}

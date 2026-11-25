@@ -1,0 +1,1 @@
+Raw model source subset of TabICL 2.2.0, https://github.com/soda-inria/tabicl . Original _model and _torch_devices files preserved; package __init__ is minimal to avoid unused online-download wrappers. BSD-3-Clause terms and bundled dependency notices are in LICENSE.

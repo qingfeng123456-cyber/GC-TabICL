@@ -1,0 +1,140 @@
+{
+  "status": "passed",
+  "rows": 413,
+  "series": 20,
+  "snapshot_sha256": "75e0260e374796c903ed9ad1ff05341f250c1be100ad52f1dc7ca497c8e0d425",
+  "motion_sha256": "0144b545a96377d4677821962fadbc2fc5147e35819055aeb3cc15c2329da02d",
+  "snapshot_fields_equal_under_complete_uid_mapping": [
+    "arrival_seconds",
+    "centers",
+    "date",
+    "event",
+    "feature_names",
+    "freeze_end_tick",
+    "habitual_rule",
+    "mask",
+    "match",
+    "nearest",
+    "roster",
+    "round",
+    "spawn_xy",
+    "split",
+    "start_tick",
+    "uid",
+    "x"
+  ],
+  "unused_snapshot_auxiliary_fields_omitted": [
+    "habitual",
+    "hist_rounds",
+    "history_counts",
+    "regions"
+  ],
+  "source_rows_offset": 1983,
+  "source_rows_min": 1983,
+  "source_rows_max": 2395,
+  "old_series_uid_and_source_rows_disjoint": true,
+  "no_future_fields": true,
+  "all_prefix_ticks_asof_deadlines": true,
+  "actual_native_timestep_velocity": true,
+  "native_and_active_times_match_cache": true,
+  "remaining_event_risk_matches_cache": true,
+  "max_prefix_sample_age_seconds": 0.0,
+  "max_channel_error": [
+    1.478195188475695e-08,
+    1.2874603272372553e-08,
+    1.8477439855946187e-09,
+    1.478195188475695e-08,
+    1.478195188475695e-08,
+    5.364418020903372e-09,
+    5.817413328834675e-08,
+    5.817413328834675e-08,
+    5.91278075390278e-08,
+    0.0,
+    0.0
+  ],
+  "all_826_regions_at_risk": true,
+  "source_cache_files": [
+    {
+      "match": "2393083",
+      "sha256": "e08651652a61a3baa4faf1aed86b7d0f6b664673f58ab8fea3829ec5212e632e"
+    },
+    {
+      "match": "2393087",
+      "sha256": "20c6dde5828371a489c001796aac4a338c9ef7f3f90122849859460fae2e77c2"
+    },
+    {
+      "match": "2393132",
+      "sha256": "df43f4c063952b82b383db3bf9b720980ab306302c8140ed4fcae2b1fa98b0eb"
+    },
+    {
+      "match": "2393133",
+      "sha256": "1d6f087ce2e028d7c0fb3e98aae6a4b35d4fcdb4eb016cc0a842f0eba13282e4"
+    },
+    {
+      "match": "2393160",
+      "sha256": "8cc6383babe8e6bdd769cc13d8622a133210315d576843474426928d7e619fe2"
+    },
+    {
+      "match": "2393162",
+      "sha256": "7d37c9573d23f07663bf4df677b421c67bf76d98ee6717a5a07091b139350140"
+    },
+    {
+      "match": "2393164",
+      "sha256": "4671a591230907b49d922dd5b1b44afc7e7742caf4f4045f6b2b69cb865c2934"
+    },
+    {
+      "match": "2393165",
+      "sha256": "d4b700ef06868765a64cbef23b540ae861d397ce327992a25a24118ea5c01296"
+    },
+    {
+      "match": "2393168",
+      "sha256": "d34383b9e79d3a6e33a337d44f5cbee561beab54418997a476892c1d12bcaf2f"
+    },
+    {
+      "match": "2393169",
+      "sha256": "3cdcd56de3fc94157c75a0f6fbffffd8cbb8892ebb28bdaa6152e0350a96097a"
+    },
+    {
+      "match": "2393170",
+      "sha256": "f4a82cfd8f44947b51fa694a9fd15357462217debfcb2fb2c416326a658ec681"
+    },
+    {
+      "match": "2393177",
+      "sha256": "f8151c27401ceeb98c7789b2b0a8ac6f85eabd9be1b9c405c804a426d506dc74"
+    },
+    {
+      "match": "2393180",
+      "sha256": "0729f00caa7fc7a799c582e9347d142b5cd2066f7f276f8daae57bce63609859"
+    },
+    {
+      "match": "2393183",
+      "sha256": "da37aaf1da819ce6325ce384af6c129a42da41240e1c551c2366a1283fb517ff"
+    },
+    {
+      "match": "2393239",
+      "sha256": "e6de265fc52e326593c0aff990d88e884eab75abe3eb649b1955ecb63be01536"
+    },
+    {
+      "match": "2393338",
+      "sha256": "d19a60596587ae0009b7ae11fc329e4832f0a786f3e1de48f2a9e9f3822ecdc7"
+    },
+    {
+      "match": "2393341",
+      "sha256": "ed9621faed7c34231e6b904ec67c212eb935b70965c434c40725e0a3ce121901"
+    },
+    {
+      "match": "2393342",
+      "sha256": "8e1dd6cc82cd40c93d7a04610184963c605dc786d577adf019d11c84e8db1eaa"
+    },
+    {
+      "match": "2393352",
+      "sha256": "5f729168b1259bec783ded9ea1f0fc6793c9566d09fe18af5325464b8d829810"
+    },
+    {
+      "match": "2393425",
+      "sha256": "6e0ab83cfdd615802fa3e1b0201f317ea0c6256094e1be2d31628e3398ee154f"
+    }
+  ],
+  "audit_code_sha256": "dfe935491c52d4f6206ad3bb58570887cce56b9f409c3275a163b111a17380fd",
+  "models_fitted_or_evaluated": false
+}
